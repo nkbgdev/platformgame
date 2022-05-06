@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Script/PlayerMove.cs.meta
+<<<<<<< HEAD
+guid: c43e72f1150688d43b6b5e482b87f4cf
+=======
+guid: 4be4ef1cc1bd514499064516de2fbb46
+>>>>>>> f7d794596111fe145d855bd5d38ba8f6911d70c0
+=======
+guid: 0d7a11bb9091dce44bed67a47c688689
+>>>>>>> b21a12cc1bb81e40eafe43a87439bc74436f6b54:Assets/Script/PlayerMovement.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
